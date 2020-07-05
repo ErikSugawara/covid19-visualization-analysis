@@ -30,7 +30,7 @@ Covid-19, also known as coronavirus, is an infectious disease caused by severe a
  ## Future implementations
  - [ ] Add more statistics for Top 10 Countries.
  - [ ] Add new ways to display more elaborated graphics.
- - [ ] Implement some machine learning.
+ - [ ] Implement some deep learning.
  
  ## Project status
  
