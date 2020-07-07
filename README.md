@@ -5,6 +5,10 @@ A notebook which shows the impact of Covid-19 around the world and in Brazil by 
 
 Covid-19, also known as coronavirus, is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was primally identified in December 2019 in Wuhan, China and has spread globally, resulting in an ongoing pandemic (Wikipedia).
 
+ ## Note
+ When you add Jupyter Notebook or IPython Notebook files with a .ipynb extension on GitHub, they will render as static HTML files in your repository.
+ Access this link to see interactive graphics: https://nbviewer.jupyter.org/github/ErikSugawara/covid19-visualization-analysis/blob/master/covid_visual_analysis.ipynb
+
 ## Preview
 
 1. Top 10 Countries - Recovered Cases
@@ -26,7 +30,7 @@ Covid-19, also known as coronavirus, is an infectious disease caused by severe a
   * Growth rate by day.
   * Mortality rate and Recovery rate.
   * Doubling time.
- 
+   
  ## Future implementations
  - [ ] Add more statistics for Top 10 Countries.
  - [ ] Add new ways to display more elaborated graphics.
